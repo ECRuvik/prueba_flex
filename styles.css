@@ -1,0 +1,25 @@
+* {
+    background: #f3f3f3;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    width: 80%;
+    justify-content: space-around;
+    margin: auto;
+    background-color: #0f0f0f;
+    border: 6px solid #030303;
+}
+
+.box img {
+    z-index: 1  ;
+}
+
+.box {
+    width: 30%;
+}
+
+.box_2 {
+    width: 50%;
+}
